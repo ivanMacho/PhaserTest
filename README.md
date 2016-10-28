@@ -1,4 +1,4 @@
 # PhaserTest
 
-[Play!](macho.github.io/PhaserTest)
+[Play!](https://ivanmacho.github.io/PhaserTest/)
 
